@@ -2,3 +2,4 @@ node_modules/
 .playwright-mcp/
 package-lock.json
 /tmp/
+.vercel
