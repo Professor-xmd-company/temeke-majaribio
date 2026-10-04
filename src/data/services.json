@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ndizi",
+    "price": 1000,
+    "formattedPrice": "TSh 1,000"
+  },
+  {
+    "name": "machungwa",
+    "price": 500,
+    "formattedPrice": "TSh 500"
+  },
+  {
+    "name": "embe",
+    "price": 800,
+    "formattedPrice": "TSh 800"
+  },
+  {
+    "name": "papai",
+    "price": 1500,
+    "formattedPrice": "TSh 1,500"
+  }
+]
